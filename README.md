@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Bautista</h1>
 <h3 align="center">A passionate full stack developer from Perú</h3>
 
-- 🌱 I’m currently learning **Nextjs, cloud servises, english**
+- 🌱 I’m currently learning **Nextjs, cloud services, english**
 
 - 💬 Ask me about **Pythonm, FastAPI, TypeScript**
 

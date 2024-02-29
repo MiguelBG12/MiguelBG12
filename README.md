@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Nextjs, cloud services, english**
 
-- 💬 Ask me about **Pythonm, FastAPI, TypeScript**
+- 💬 Ask me about **Python, FastAPI, TypeScript**
 
 - 📫 How to reach me **mbautista.g12@gmail.com**
 
